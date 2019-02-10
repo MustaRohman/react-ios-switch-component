@@ -6,9 +6,8 @@ class App extends Component {
   render() {
     return (
       <div>
-        <IosSwitchComponent />
-        <IosSwitchComponent />
-        <IosSwitchComponent />
+        Testing
+        <span><IosSwitchComponent></IosSwitchComponent></span>
       </div>
     );
   }

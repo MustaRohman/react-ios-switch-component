@@ -7,7 +7,7 @@
     padding: 1px;
     background-color: #5AD94C;
     /* background-image: linear-gradient(to right, white, #5AD94C); */
-    display: block;
+    display: inline-block;
 }
 
 .inner-circle {
